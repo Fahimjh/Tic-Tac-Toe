@@ -28,6 +28,8 @@ body{
     border: none;
     box-shadow: 0 0 1rem rgba(0,0,0,0.3);
     font-size: 8vmin;
+    background-color:whitesmoke;
+    color: black;
 }
 
 #reset{

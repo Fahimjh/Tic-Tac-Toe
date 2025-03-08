@@ -39,3 +39,21 @@ body{
     border: none;
     background-color: red;
 }
+#newGame{
+    padding: 1rem;
+    font-size: 1.5rem;
+    border-radius: 1rem;
+    border: none;
+    background-color:black;
+    color: white;
+}
+#msg{
+    color: black;
+    font-size: 4vmin;
+}
+.msgContainer{
+    height: 15vmin;
+}
+.hide{
+    display: none;
+}
